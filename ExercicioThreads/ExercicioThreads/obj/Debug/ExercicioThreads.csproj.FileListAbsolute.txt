@@ -1,0 +1,6 @@
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\ExercicioThreads\ExercicioThreads\bin\Debug\ExercicioThreads.exe.config
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\ExercicioThreads\ExercicioThreads\bin\Debug\ExercicioThreads.exe
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\ExercicioThreads\ExercicioThreads\bin\Debug\ExercicioThreads.pdb
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\ExercicioThreads\ExercicioThreads\obj\Debug\ExercicioThreads.csprojResolveAssemblyReference.cache
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\ExercicioThreads\ExercicioThreads\obj\Debug\ExercicioThreads.exe
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\ExercicioThreads\ExercicioThreads\obj\Debug\ExercicioThreads.pdb
